@@ -1,0 +1,2 @@
+freeze_res50_sim.onnx
+rvm_resnet50_comp_fp32_hwc.onnx
